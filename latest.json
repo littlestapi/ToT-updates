@@ -1,0 +1,13 @@
+{
+    "version": "0.0.2",
+    "notes": "Changed login",
+    "pub_date": "2025-07-15T12:00:00Z",
+    "platforms": {
+        "windows": {
+            "x86_64": {
+                "url": "https://github.com/littlestapi/ToT-app/releases/download/v0.0.2/tot-app_0.0.2_x64-setup.exe",
+                "signature": "https://github.com/littlestapi/ToT-app/releases/download/v0.0.2/tot-app_0.0.2_x64-setup.exe.sig"
+            }
+        }
+    }
+}
