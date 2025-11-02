@@ -1,7 +1,7 @@
 {
   "version": "0.0.13",
   "notes": "Automated release for version 0.0.13",
-  "pub_date": "",
+  "pub_date": "2025-11-02T12:47:44Z",
   "platforms": {
       "windows-x86_64": {
           "url": "https://github.com/littlestapi/ToT-updates/releases/download/v0.0.13/tot-app_0.0.13_x64_en-US.msi",
@@ -9,3 +9,4 @@
       }
   }
 }
+
