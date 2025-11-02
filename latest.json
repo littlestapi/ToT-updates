@@ -1,13 +1,11 @@
 {
-    "version": "0.0.2",
-    "notes": "Changed login",
-    "pub_date": "2025-07-15T12:00:00Z",
-    "platforms": {
-        "windows": {
-            "x86_64": {
-                "url": "https://github.com/littlestapi/ToT-app/releases/download/v0.0.2/tot-app_0.0.2_x64-setup.exe",
-                "signature": "https://github.com/littlestapi/ToT-app/releases/download/v0.0.2/tot-app_0.0.2_x64-setup.exe.sig"
-            }
-        }
-    }
+  "version": "0.0.13",
+  "notes": "Automated release for version 0.0.13",
+  "pub_date": "",
+  "platforms": {
+      "windows-x86_64": {
+          "url": "https://github.com/littlestapi/ToT-updates/releases/download/v0.0.13/tot-app_0.0.13_x64_en-US.msi",
+          "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUDJEVllISXJNamN0NnljMFVYRDdDNFVHakRlcWlKYTNJRUJ5T2J3bTRhNkljV2c1Njd6Y0tIYnR2Z1llb2pmNUZRVzBnODJFN1ZaNmYzdDJ1SFRKTTBSc0FWQVdyK3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzMjY1MDQ2CWZpbGU6dG90LWFwcF8wLjAuNV94NjQtc2V0dXAuZXhlClhKWm5WcmlNMUVZb2JtMXRNS0kzMHEwTExJRHhCRm9xU1dNQnVaemVTclpSYzJycnNSa1BITHRQL2lEditwZXpqVitidU5JTWhMRjNLQVlIeldXN0RRPT0K"
+      }
+  }
 }
