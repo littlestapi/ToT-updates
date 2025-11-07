@@ -1,12 +1,11 @@
 {
-  "version": "0.0.13",
-  "notes": "Automated release for version 0.0.13",
-  "pub_date": "2025-11-02T12:47:44Z",
+  "version": "0.0.8",
+  "notes": "Automated release for version 0.0.8",
+  "pubDate": "2025-11-07T12:47:44Z",
   "platforms": {
-      "windows-x86_64": {
-          "url": "https://github.com/littlestapi/ToT-updates/releases/download/v0.0.13/tot-app_0.0.13_x64_en-US.msi",
-          "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUDJEVllISXJNamN0NnljMFVYRDdDNFVHakRlcWlKYTNJRUJ5T2J3bTRhNkljV2c1Njd6Y0tIYnR2Z1llb2pmNUZRVzBnODJFN1ZaNmYzdDJ1SFRKTTBSc0FWQVdyK3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUzMjY1MDQ2CWZpbGU6dG90LWFwcF8wLjAuNV94NjQtc2V0dXAuZXhlClhKWm5WcmlNMUVZb2JtMXRNS0kzMHEwTExJRHhCRm9xU1dNQnVaemVTclpSYzJycnNSa1BITHRQL2lEditwZXpqVitidU5JTWhMRjNLQVlIeldXN0RRPT0K"
-      }
+    "windows-x86_64": {
+      "url": "https://github.com/littlestapi/ToT-updates/releases/download/v0.0.8/tot-app_0.0.8_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUDJEVllISXJNalJDMm1PWlI2T0hRa2F4SVd4aXpNand6VytSOWxCV1daaXc2YnNudWJ5ZG5OaHlmbXdyYU9kK0dMQXZFZVpZNXJ3RjZwRUZ4UGVyY2Q4TlUrUWhBUndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyNTE2MDU3CWZpbGU6dG90LWFwcF8wLjAuOF94NjQtc2V0dXAuZXhlCksvSUYzdjF4MkhPYzJOTHIxWDFETkxSMWVrWXoxQWJ3Y3QwR0N4VTRYV0JISXA0cjlTZmw2RFVOOFNOR2cxUkFNZGh4bXZHRi9mR0hCYm9mZTJBL0RRPT0K"
+    }
   }
 }
-
